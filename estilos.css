@@ -1,0 +1,46 @@
+body{
+    
+    background-image:url(photo\ 2.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+h1{
+    text-align: center;
+    background-color:pink;
+}
+img{
+    background-color: deeppink;
+    position: relative;
+    left:200px;
+}
+#navegador ul{
+    list-style-type:none;
+    text-align: center;
+}
+#navegador li{
+    display: inline;
+    text-align: center;
+}
+#navegador li a {
+    background-color:pink;
+    color: blue;
+}
+h3{
+    text-align: center;
+    background-color: pink;
+    color: fuchsia;
+}
+h2{
+    text-align: center;
+    color: red;
+}
+p{
+    text-align: center;
+    background-color: pink;
+    color: black;
+}
+h4{ 
+   text-align: center;
+   color:darkmagenta;
+    font-size: 20px;
+}

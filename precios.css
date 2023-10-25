@@ -1,0 +1,43 @@
+body{
+    background-image: url(photo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+}
+#navegador ul{
+    list-style-type:none;
+    text-align: center;
+}
+#navegador li{
+    display: inline;
+    text-align: center;
+}
+#navegador li a {
+    background-color:pink;
+    color: blue;
+}
+h1{
+    border-top-right-radius:;
+    border-radius: 50px;
+    text-align: center;
+    background-color:pink;
+}
+h3{
+    text-align: center;
+    background-color: pink;
+    color: fuchsia;
+}
+h4{
+    border-radius: 50px;
+    text-align: center;
+    background-color: pink;
+    color: fuchsia;
+}
+ ul{
+    border-radius: 50px;
+    text-align: center;
+    background-color: pink;
+    color: fuchsia;
+
+}
