@@ -1,5 +1,5 @@
 body{
-    background-image: url(photo_2023-10-24_13-01-32.jpg);
+    background-image: url(photo.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 
@@ -18,26 +18,18 @@ body{
     color: blue;
 }
 h1{
-    border-top-right-radius:;
-    border-radius: 50px;
     text-align: center;
-    background-color:pink;
 }
 h3{
     text-align: center;
-    background-color: pink;
     color: fuchsia;
 }
 h4{
-    border-radius: 50px;
     text-align: center;
-    background-color: pink;
     color: fuchsia;
 }
  ul{
-    border-radius: 50px;
     text-align: center;
-    background-color: pink;
     color: fuchsia;
 
 }
