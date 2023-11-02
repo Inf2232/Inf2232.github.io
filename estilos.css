@@ -20,14 +20,15 @@ h1{
 #navegador li{
 
 
+
     display: inline;
     text-align: center;
 }
 #navegador li a {
-    padding: 30px;
-    padding-top: 10px;
-    padding-bottom: 10px;
-    margin: 30px;
+    padding: 5%;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    
     background-color:pink;
     color: blue;
     border-radius: 30px;
@@ -78,22 +79,22 @@ img.derecha{
 
 }
 #derechodeautor{
+    
+    padding: 5%;
     border-top-left-radius:30px ;
     border-top-right-radius: 30px;
-    padding-top: 15px;
-    padding-bottom: 50px;
-    padding: 30px;
     background-color: white;
 }
 
 #derechodeautor p.right{
-    margin: 0;
-    background-color: white;
+    display: inline;
     float: left;
+    background-color: white;
+   
 
 }
 #derechodeautor p.left{
-    margin: 0;
+    display: inline;
     background-color: white;
     float: right;
 }
