@@ -62,24 +62,23 @@ h4{
 
 }
 
-}
 #derechodeautor{
     
-    padding: 5%;
     border-top-left-radius:30px ;
     border-top-right-radius: 30px;
     background-color: white;
 }
 
 #derechodeautor p.right{
-    display: inline;
+    margin-right: 0%;
     float: left;
     background-color: white;
    
 
 }
 #derechodeautor p.left{
-    display: inline;
+    margin-left: 0%;
+
     background-color: white;
     float: right;
 }
