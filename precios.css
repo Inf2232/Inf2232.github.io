@@ -5,31 +5,78 @@ body{
 
 
 }
+
 #navegador ul{
-    list-style-type:none;
+
     text-align: center;
 }
 #navegador li{
+
+
     display: inline;
     text-align: center;
 }
 #navegador li a {
-    background-color:pink;
+    padding: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin: 30px;
+    background-color:rgb(219, 216, 216);
     color: blue;
+    border-radius: 30px;
 }
+#navegador li a:hover{
+    color:black;
+    background-color:beige;
+}
+
 h1{
+    
     text-align: center;
+  
 }
 h3{
+    
     text-align: center;
-    color: fuchsia;
+    
+    color:deeppink;
 }
 h4{
+   
     text-align: center;
-    color: fuchsia;
+    
+    color: rgb(236, 10, 82);
 }
  ul{
+    
     text-align: center;
-    color: fuchsia;
+   
+    color: deeppink;}
+#correccion{
+    border-radius: 30px;
+    color: black;
+    background-color:lightpink;
+    margin: 15px;
+    padding: 30px;
 
 }
+
+    #derechodeautor{
+        border-top-left-radius:30px ;
+        border-top-right-radius: 30px;
+        padding-top: 15px;
+        padding-bottom: 50px;
+        padding: 30px;
+        background-color: white;
+    }
+    #derechodeautor p.right{
+        margin: 0;
+        background-color: white;
+        float: left;
+    
+    }
+    #derechodeautor p.left{
+        margin: 0;
+        background-color: white;
+        float: right;
+    }
